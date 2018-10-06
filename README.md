@@ -116,6 +116,6 @@ You can download the Library from [releases](https://github.com/100rabhkr/TCWHOI
 
 ## Note
 
-|![Managed](https://image.ibb.co/jiARgz/40978490_234042307291317_8497249025953628160_n.jpg")  | Created and Managed By |
+|![Managed]("https://image.ibb.co/jiARgz/40978490_234042307291317_8497249025953628160_n.jpg")  | Created and Managed By |
 |--|--|
 | [@100rabhkr](https://github.com/100rabhkr) |For [The Collective Web](https://thecollectiveweb.com)  |
