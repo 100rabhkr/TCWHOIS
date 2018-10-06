@@ -59,10 +59,10 @@ The TCWHOIS has a very simple usage:
 > **Note**
 It can throw ExecutionException and InterruptedException so wrap it in a try-catch.
 
-Also The syntax of the domain name should be 
-domainname.suffix(TLDs, example: .com, .in, .net etc)
-Example: google.com and not ~~www.~~ google.com
-**No need to add www or any other subdomain**
+	Also The syntax of the domain name should be 
+	domainname.suffix(TLDs, example: .com, .in, .net etc)
+	Example: google.com and not ~~www.~~ google.com
+	**No need to add www or any other subdomain**
 
 ## Result
 
