@@ -59,6 +59,11 @@ Also The syntax of the domain name should be domainname.suffix(TLDs, example: .c
 Example: google.com and not ~~www.~~ google.com
 **No need to add www or any other subdomain**
 
+
+## Demo
+
+<iframe width="854" height="480" src="https://appetize.io/embed/kmxxfkv3jxykb2z36fghtnc4z4?device=nexus5&scale=75&orientation=portrait&osVersion=7.1" frameborder="0" allowfullscreen></iframe>
+
 ## Result
 
 The TCWHOIS library returns result it string form.
