@@ -62,7 +62,7 @@ Example: google.com and not ~~www.~~ google.com
 
 ## Demo
 
-<iframe src="https://appetize.io/embed/kmxxfkv3jxykb2z36fghtnc4z4 privateKey: private_yquua7buxjqz9n8f6ytp6wmza4?device=nexus9&scale=75&autoplay=true&orientation=portrait&deviceColor=black" width="650px" height="966px" frameborder="0" scrolling="yes"></iframe>
+View the Demo [here](https://appetize.io/app/kmxxfkv3jxykb2z36fghtnc4z4?device=nexus5&scale=75&orientation=portrait&osVersion=7.1)
 
 ## Result
 
