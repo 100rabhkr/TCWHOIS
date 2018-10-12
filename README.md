@@ -57,7 +57,7 @@ The TCWHOIS has a very simple usage:
 > **Note**
 It can throw ExecutionException and InterruptedException so wrap it in a try-catch.
 Also The syntax of the domain name should be domainname.suffix(GTLDs, example: .com, .edu, .net etc)
-Currently the Registry database contains ONLY .COM, .NET, .EDU domains and Registrars.
+Currently the Registry database contains ONLY .COM, .NET, .EDU domains and Registrars. More TLDs are being added.
 Example: google.com and not ~~www.~~ google.com
 **No need to add www or any other subdomain**
 
