@@ -1,4 +1,4 @@
-<p><a href="https://jitpack.io/#100rabhkr/TCWHOIS"><img src="https://jitpack.io/v/100rabhkr/TCWHOIS.svg" alt=""></a>   <a href="http://paypal.me/100rabhkr"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a> <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a> [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TCWHOIS-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7176)</p>
+<p><a href="https://jitpack.io/#100rabhkr/TCWHOIS"><img src="https://jitpack.io/v/100rabhkr/TCWHOIS.svg" alt=""></a>   <a href="http://paypal.me/100rabhkr"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a> <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a></p> [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TCWHOIS-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7176)
 # TCWHOIS
 
 A small library which allows you to check whois records of any domain registered on whois.
