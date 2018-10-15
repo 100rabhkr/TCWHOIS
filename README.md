@@ -61,6 +61,14 @@ Currently the Registry database contains ONLY .COM, .NET, .EDU domains and Regis
 Example: google.com and not ~~www.~~ google.com
 **No need to add www or any other subdomain**
 
+> **UPDATE**
+This Lirary now supports almost all the TLDs now here is a list of TLDs that are supported :-
+ac,ad,ae,aer,af,ag,ai,al,am,as,asi,at,au,aw,ax,az,ba,bar,be,ber,bes,bg,bi,biz,bj,bo,br,br.,bt,bw,by,bz,bzh,ca,cat,cc,cd,ceo,cf,ch,ci,ck,cl,clo,clu,cn,cn.,co,co.,com,coo,cx,cy,cz,de,dk,dm,dz,ec,edu,ee,eg,es,eu,eu.,eus,fi,fo,fr,gb,gb.,gb.,qc.,ge,gg,gi,gl,gm,gov,gr,gs,gy,ham,hip,hk,hm,hn,hos,hr,ht,hu,hu.,id,ie,il,im,in,inf,ing,ink,int,io,iq,ir,is,it,je,job,jp,ke,kg,ki,kr,kz,la,li,lon,lt,lu,lv,ly,ma,mc,md,me,mg,mil,mk,ml,mo,mob,ms,mt,mu,mus,mx,my,mz,na,nam,nc,net,nf,ng,nl,no,no.,nu,nz,om,ong,ooo,org,par,pe,pf,pic,pl,pm,pr,pre,pro,pt,pub,pw,qa,re,ro,rs,ru,sa,sa.,sb,sc,se,se.,se.,sg,sh,si,sk,sm,st,so,su,sx,sy,tc,tel,tf,th,tj,tk,tl,tm,tn,to,top,tp,tr,tra,tw,tv,tz,ua,ug,uk,uk.,uk.,ac.,gov,us,us.,uy,uy.,uz,va,vc,ve,vg,vu,wan,wf,wik,ws,xxx,xyz,yu,za.
+
+**These will be called TLD codes that can be used to get whois data of that particular TLD.**
+
+
+
 
 ## Demo
 
