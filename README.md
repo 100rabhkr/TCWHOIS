@@ -43,7 +43,9 @@ The TCWHOIS has a very simple usage:
    
 	TCWHOIS ff = new TCWHOIS();
     try {  
-	    String strings = ff.getTCWHOIS(Domainname);  
+	    String strings = ff.getTCWHOIS(Domainname);  //This by default supports .com, .edu, .net
+	    //use this for other options
+	    //String strings = ff.getTCWHOIS(Domainname,TLDcode); 
 	    textView.setText(strings);  
 	} catch (ExecutionException e) {  
     e.printStackTrace();  
