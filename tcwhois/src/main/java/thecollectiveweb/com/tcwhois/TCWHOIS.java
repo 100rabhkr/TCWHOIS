@@ -40,6 +40,10 @@ public class TCWHOIS {
         return new getwhois().execute().get();
     }
 
+    public void dosomething(){
+
+    }
+
     public String getTCWHOIS(String Domain, String TLD) throws ExecutionException, InterruptedException {
         //for domains other than .com,.net,.edu
         this.Domainname = Domain;
