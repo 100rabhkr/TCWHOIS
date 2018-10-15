@@ -21,29 +21,47 @@
                 android:hint="ex: google.com"
                 android:id="@+id/dmn"/>
         </RelativeLayout>
+
+
+
         <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1">
+            android:layout_weight="2">
 
-            <Button
-                android:layout_width="wrap_content"
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:text="Run"
-                android:id="@+id/run"/>
+                android:background="@android:drawable/btn_dropdown"
+                android:spinnerMode="dropdown"
+                />
 
         </RelativeLayout>
         <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1">
+            android:layout_weight="0.8">
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
-                android:text="Clear"
+                android:text="Go"
+                android:id="@+id/run"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="X"
                 android:id="@+id/clear"/>
 
         </RelativeLayout>
