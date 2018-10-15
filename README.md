@@ -30,7 +30,7 @@ Add it in your root build.gradle at the end of repositories:
 
 ```css
 	dependencies {
-	        implementation 'com.github.100rabhkr:TCWHOIS:v1.0'
+	        implementation 'com.github.100rabhkr:TCWHOIS:v2.0'
 	}
 ```
 
@@ -69,6 +69,8 @@ ac,ad,ae,aer,af,ag,ai,al,am,as,asi,at,au,aw,ax,az,ba,bar,be,ber,bes,bg,bi,biz,bj
 
 **These will be called TLD codes that can be used to get whois data of that particular TLD.**
 
+> **Please Note**
+I've been trying to test all the TLDs, not all of them are tested as of now. Please feel free to raise an issue if there is one 
 
 
 
